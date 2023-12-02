@@ -2,9 +2,9 @@
 
 ## Overview
 
-This repo is a backend for our full-stack app MaintenancePro.
-<br>
-https://github.com/ujjawalsidhpura/MaintenancePro
+This is the backend for our full-stack app MaintenancePro.
+An app built by Hafiz Toyyib as Eni Ghana intern project
+
 
 ### Few key takes
 
